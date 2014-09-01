@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<root>
+<data>
+ <textrun>NOTEZ</textrun>
+  <pathrun>C:\Program Files (x86)\Notepad++\notepad++.exe</pathrun>
+
+</data>
+<data>
+ <textrun>SQLSERVERZ</textrun>
+  <pathrun>C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\Ssms.exe</pathrun>
+
+</data>
+
+<data>
+ <textrun>SERVICEZ</textrun>
+  <pathrun>C:\Windows\system32\services.msc</pathrun>
+
+</data>
+
+<data>
+ <textrun>MAILZ</textrun>
+  <pathrun>C:\Program Files (x86)\Windows Live\Mail\wlmail.exe</pathrun>
+
+</data>
+
+<data>
+ <textrun>UNIZ</textrun>
+  <pathrun>C:\Program Files\UniKey\UniKeyNT.exe</pathrun>
+
+</data>
+
+<data>
+ <textrun>REMOTEZ</textrun>
+  <pathrun>C:\Windows\system32\mstsc.exe</pathrun>
+
+</data>
+
+<data>
+ <textrun>POSTZ</textrun>
+  <pathrun>C:\Program Files\PostgreSQL\9.3\bin\pgAdmin3.exe</pathrun>
+
+</data>
+
+<data>
+ <textrun>VS2013Z</textrun>
+  <pathrun>vs2013.bat</pathrun>
+
+</data>
+
+<data>
+ <textrun>COCZ</textrun>
+  <pathrun>C:\Users\TRONG\AppData\Local\CocCoc\Browser\Application\browser.exe</pathrun>
+
+</data>
+
+<data>
+ <textrun>COCZ</textrun>
+  <pathrun>C:\Users\TRONG\AppData\Local\CocCoc\Browser\Application\browser.exe</pathrun>
+
+</data>
+<data>
+ <textrun>EXX</textrun>
+  <pathrun>C:\Windows\explorer.exe</pathrun>
+
+</data>
+<data>
+ <textrun>OFFZ</textrun>
+  <pathrun>C:\Program Files (x86)\OpenOffice 4\program\scalc.exe</pathrun>
+
+</data>
+<data>
+ <textrun>LOCKZ</textrun>
+  <pathrun>D:\soft\MyKeyf\bin\Release\LOCK.BAT</pathrun>
+
+</data>
+
+<data>
+ <textrun>RESTARTZ
+ </textrun>
+ 
+  <pathrun>RESTART.BAT
+  </pathrun>
+</data>
+
+<data>
+ <textrun>SLEEPZ
+ </textrun>
+ 
+  <pathrun>SLEEP.BAT
+  </pathrun>
+</data>
+
+
+</root>

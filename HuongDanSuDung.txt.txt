@@ -1,0 +1,6 @@
+Phan mem nay tao phim tat cho viec khoi dong cac phan mem khac.
+1.De chay phan mem chay file: MyKeyF
+2.De dinh nghia lenh tuong ung voi phan mem vao file data.xml chinh sua duong dan tuong ung.
+3.De thoat phan mem go lenh thoatz
+
+xem huong danh nhanh bang hinh anh hoat youtube
